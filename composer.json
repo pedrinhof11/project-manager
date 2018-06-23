@@ -1,0 +1,12 @@
+{
+    "name": "pedrinhof11/project-manager",
+    "description": "Gerenciadsimples",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Felipe",
+            "email": "pedrinhof11@gmail.com"
+        }
+    ],
+    "require": {}
+}
